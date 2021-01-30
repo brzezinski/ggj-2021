@@ -3,6 +3,7 @@
     {"id":{"name":"Star","path":"objects/Star/Star.yy",},"order":1,},
     {"id":{"name":"BlackHole","path":"objects/BlackHole/BlackHole.yy",},"order":0,},
     {"id":{"name":"Setup","path":"rooms/Setup/Setup.yy",},"order":2,},
+    {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"order":4,},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":1,},
     {"id":{"name":"Time","path":"objects/Time/Time.yy",},"order":3,},
     {"id":{"name":"Score","path":"objects/Score/Score.yy",},"order":2,},
