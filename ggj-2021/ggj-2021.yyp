@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"menu_music","path":"sounds/menu_music/menu_music.yy",},"order":1,},
     {"id":{"name":"Star","path":"objects/Star/Star.yy",},"order":1,},
     {"id":{"name":"TimeSpr","path":"sprites/TimeSpr/TimeSpr.yy",},"order":5,},
     {"id":{"name":"BlackHole","path":"objects/BlackHole/BlackHole.yy",},"order":0,},
