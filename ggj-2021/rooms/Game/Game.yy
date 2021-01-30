@@ -15,6 +15,7 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"BlackHole","path":"objects/BlackHole/BlackHole.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":256.0,"resourceVersion":"1.0","name":"inst_2BA0491D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"EnemyBlackHole","path":"objects/EnemyBlackHole/EnemyBlackHole.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":480.0,"resourceVersion":"1.0","name":"inst_DCB801F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Star","path":"objects/Star/Star.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":384.0,"resourceVersion":"1.0","name":"inst_3F7A21FF","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Star","path":"objects/Star/Star.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":480.0,"resourceVersion":"1.0","name":"inst_71198886","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Star","path":"objects/Star/Star.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":928.0,"y":64.0,"resourceVersion":"1.0","name":"inst_6BE873AD","tags":[],"resourceType":"GMRInstance",},
@@ -35,6 +36,7 @@
     {"name":"inst_38B05EB5","path":"rooms/Game/Game.yy",},
     {"name":"inst_254CE507","path":"rooms/Game/Game.yy",},
     {"name":"inst_31805439","path":"rooms/Game/Game.yy",},
+    {"name":"inst_DCB801F","path":"rooms/Game/Game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
