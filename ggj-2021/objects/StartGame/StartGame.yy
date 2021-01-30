@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "BlackHoleSpr",
-    "path": "sprites/BlackHoleSpr/BlackHoleSpr.yy",
+    "name": "StartGameSpr",
+    "path": "sprites/StartGameSpr/StartGameSpr.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"BlackHole","path":"objects/BlackHole/BlackHole.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"StartGame","path":"objects/StartGame/StartGame.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "BlackHole",
+  "name": "StartGame",
   "tags": [],
   "resourceType": "GMObject",
 }
