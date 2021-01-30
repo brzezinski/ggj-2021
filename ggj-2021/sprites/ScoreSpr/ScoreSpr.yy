@@ -7,14 +7,14 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 6,
-  "bbox_right": 192,
-  "bbox_top": 20,
-  "bbox_bottom": 42,
+  "bbox_left": 0,
+  "bbox_right": 0,
+  "bbox_top": 0,
+  "bbox_bottom": 0,
   "HTile": false,
   "VTile": false,
-  "For3D": false,
-  "width": 200,
+  "For3D": true,
+  "width": 64,
   "height": 64,
   "textureGroupId": {
     "name": "Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"98710dfd-cbcd-4412-b854-7e20822ea34a","path":"sprites/StartGameSpr/StartGameSpr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"98710dfd-cbcd-4412-b854-7e20822ea34a","path":"sprites/StartGameSpr/StartGameSpr.yy",},"LayerId":{"name":"f17e5150-a6d9-45fa-aba5-2064272374dc","path":"sprites/StartGameSpr/StartGameSpr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"StartGameSpr","path":"sprites/StartGameSpr/StartGameSpr.yy",},"resourceVersion":"1.0","name":"98710dfd-cbcd-4412-b854-7e20822ea34a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"42d26c5c-bc41-4ec9-8f54-c5d0deba314a","path":"sprites/ScoreSpr/ScoreSpr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"42d26c5c-bc41-4ec9-8f54-c5d0deba314a","path":"sprites/ScoreSpr/ScoreSpr.yy",},"LayerId":{"name":"4594b725-1fa2-4284-882f-47a5d558f644","path":"sprites/ScoreSpr/ScoreSpr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ScoreSpr","path":"sprites/ScoreSpr/ScoreSpr.yy",},"resourceVersion":"1.0","name":"42d26c5c-bc41-4ec9-8f54-c5d0deba314a","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"StartGameSpr","path":"sprites/StartGameSpr/StartGameSpr.yy",},
+    "spriteId": {"name":"ScoreSpr","path":"sprites/ScoreSpr/ScoreSpr.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"1fa10f76-87b9-4dc4-989c-67d9266d3a44","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"98710dfd-cbcd-4412-b854-7e20822ea34a","path":"sprites/StartGameSpr/StartGameSpr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0ad14488-ec48-4325-8bd9-7ac93ed67641","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"42d26c5c-bc41-4ec9-8f54-c5d0deba314a","path":"sprites/ScoreSpr/ScoreSpr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"StartGameSpr","path":"sprites/StartGameSpr/StartGameSpr.yy",},
+    "parent": {"name":"ScoreSpr","path":"sprites/ScoreSpr/ScoreSpr.yy",},
     "resourceVersion": "1.3",
-    "name": "StartGameSpr",
+    "name": "ScoreSpr",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f17e5150-a6d9-45fa-aba5-2064272374dc","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4594b725-1fa2-4284-882f-47a5d558f644","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sounds/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "StartGameSpr",
+  "name": "ScoreSpr",
   "tags": [],
   "resourceType": "GMSprite",
 }

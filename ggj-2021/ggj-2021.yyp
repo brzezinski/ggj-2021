@@ -1,8 +1,13 @@
 {
   "resources": [
     {"id":{"name":"Star","path":"objects/Star/Star.yy",},"order":1,},
+    {"id":{"name":"TimeSpr","path":"sprites/TimeSpr/TimeSpr.yy",},"order":5,},
     {"id":{"name":"BlackHole","path":"objects/BlackHole/BlackHole.yy",},"order":0,},
+    {"id":{"name":"SatelliteSpr","path":"sprites/SatelliteSpr/SatelliteSpr.yy",},"order":6,},
+    {"id":{"name":"EnemySpr","path":"sprites/EnemySpr/EnemySpr.yy",},"order":3,},
     {"id":{"name":"StartGame","path":"objects/StartGame/StartGame.yy",},"order":6,},
+    {"id":{"name":"StarSpr","path":"sprites/StarSpr/StarSpr.yy",},"order":2,},
+    {"id":{"name":"ScoreSpr","path":"sprites/ScoreSpr/ScoreSpr.yy",},"order":4,},
     {"id":{"name":"Setup","path":"rooms/Setup/Setup.yy",},"order":2,},
     {"id":{"name":"Satellite","path":"objects/Satellite/Satellite.yy",},"order":5,},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"order":4,},
@@ -33,7 +38,7 @@
     {"roomId":{"name":"Setup","path":"rooms/Setup/Setup.yy",},},
   ],
   "Folders": [
-    {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sounds/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets.yy","order":2,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sounds.yy","order":3,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Paths.yy","order":4,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},

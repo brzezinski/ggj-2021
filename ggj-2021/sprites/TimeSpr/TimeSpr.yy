@@ -7,14 +7,14 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 6,
-  "bbox_right": 192,
-  "bbox_top": 20,
-  "bbox_bottom": 42,
+  "bbox_left": 0,
+  "bbox_right": 0,
+  "bbox_top": 0,
+  "bbox_bottom": 0,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 200,
+  "width": 64,
   "height": 64,
   "textureGroupId": {
     "name": "Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"98710dfd-cbcd-4412-b854-7e20822ea34a","path":"sprites/StartGameSpr/StartGameSpr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"98710dfd-cbcd-4412-b854-7e20822ea34a","path":"sprites/StartGameSpr/StartGameSpr.yy",},"LayerId":{"name":"f17e5150-a6d9-45fa-aba5-2064272374dc","path":"sprites/StartGameSpr/StartGameSpr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"StartGameSpr","path":"sprites/StartGameSpr/StartGameSpr.yy",},"resourceVersion":"1.0","name":"98710dfd-cbcd-4412-b854-7e20822ea34a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"02f93c1e-6b5b-4d02-a8fe-e8a3fdd0012f","path":"sprites/TimeSpr/TimeSpr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"02f93c1e-6b5b-4d02-a8fe-e8a3fdd0012f","path":"sprites/TimeSpr/TimeSpr.yy",},"LayerId":{"name":"648898a4-1f27-4cf6-8c3b-8855f0f3e57b","path":"sprites/TimeSpr/TimeSpr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"TimeSpr","path":"sprites/TimeSpr/TimeSpr.yy",},"resourceVersion":"1.0","name":"02f93c1e-6b5b-4d02-a8fe-e8a3fdd0012f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"StartGameSpr","path":"sprites/StartGameSpr/StartGameSpr.yy",},
+    "spriteId": {"name":"TimeSpr","path":"sprites/TimeSpr/TimeSpr.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"1fa10f76-87b9-4dc4-989c-67d9266d3a44","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"98710dfd-cbcd-4412-b854-7e20822ea34a","path":"sprites/StartGameSpr/StartGameSpr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"99af7367-7c42-4295-bc6a-9caac2db4d19","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"02f93c1e-6b5b-4d02-a8fe-e8a3fdd0012f","path":"sprites/TimeSpr/TimeSpr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"StartGameSpr","path":"sprites/StartGameSpr/StartGameSpr.yy",},
+    "parent": {"name":"TimeSpr","path":"sprites/TimeSpr/TimeSpr.yy",},
     "resourceVersion": "1.3",
-    "name": "StartGameSpr",
+    "name": "TimeSpr",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f17e5150-a6d9-45fa-aba5-2064272374dc","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"648898a4-1f27-4cf6-8c3b-8855f0f3e57b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sounds/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "StartGameSpr",
+  "name": "TimeSpr",
   "tags": [],
   "resourceType": "GMSprite",
 }
