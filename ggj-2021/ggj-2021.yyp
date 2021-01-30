@@ -27,6 +27,7 @@
     {"id":{"name":"SatelitePath","path":"paths/SatelitePath/SatelitePath.yy",},"order":0,},
     {"id":{"name":"ButtonSpr","path":"sprites/ButtonSpr/ButtonSpr.yy",},"order":12,},
     {"id":{"name":"StartGameSpr","path":"sprites/StartGameSpr/StartGameSpr.yy",},"order":1,},
+    {"id":{"name":"LogoSpr","path":"sprites/LogoSpr/LogoSpr.yy",},"order":13,},
     {"id":{"name":"Trash","path":"objects/Trash/Trash.yy",},"order":9,},
     {"id":{"name":"Font","path":"fonts/Font/Font.yy",},"order":0,},
     {"id":{"name":"BlackHoleSpr","path":"sprites/BlackHoleSpr/BlackHoleSpr.yy",},"order":0,},
