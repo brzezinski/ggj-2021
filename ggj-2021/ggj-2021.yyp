@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"Setup","path":"rooms/Setup/Setup.yy",},"order":2,},
+    {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":1,},
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},"order":0,},
   ],
   "Options": [
@@ -17,7 +19,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
     {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
+    {"roomId":{"name":"Setup","path":"rooms/Setup/Setup.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
