@@ -1,29 +1,12 @@
-/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 /// @DnDVersion : 1
-/// @DnDHash : 048D8F9A
-/// @DnDArgument : "value" "direction_x"
-/// @DnDArgument : "value_relative" "1"
-x += direction_x;
+/// @DnDHash : 69E22764
+/// @DnDArgument : "x" "mouse_x"
+/// @DnDArgument : "y" "mouse_y"
+direction = point_direction(x, y, mouse_x, mouse_y);
 
-/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+/// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 6B2B42D7
-/// @DnDArgument : "value" "direction_y"
-/// @DnDArgument : "value_relative" "1"
-/// @DnDArgument : "instvar" "1"
-y += direction_y;
-
-/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
-/// @DnDVersion : 1
-/// @DnDHash : 625D3E3F
-/// @DnDArgument : "value" "1"
-/// @DnDArgument : "value_relative" "1"
-x += 1;
-
-/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
-/// @DnDVersion : 1
-/// @DnDHash : 52CA22B4
-/// @DnDArgument : "value" "1"
-/// @DnDArgument : "value_relative" "1"
-/// @DnDArgument : "instvar" "1"
-y += 1;
+/// @DnDHash : 17553EB2
+/// @DnDArgument : "speed" "100/abs(mouse_x-x)"
+speed = 100/abs(mouse_x-x);
