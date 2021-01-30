@@ -5,17 +5,18 @@
 /// @DnDArgument : "angle_relative" "1"
 image_angle += 1;
 
-/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Mouse_Released
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Mouse_Down
 /// @DnDVersion : 1.1
-/// @DnDHash : 4D4D7101
-var l4D4D7101_0;
-l4D4D7101_0 = mouse_check_button_released(mb_left);
-if (l4D4D7101_0)
+/// @DnDHash : 5D6420BB
+/// @DnDArgument : "not" "1"
+var l5D6420BB_0;
+l5D6420BB_0 = mouse_check_button(mb_left);
+if (!l5D6420BB_0)
 {
 	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 	/// @DnDVersion : 1
 	/// @DnDHash : 51B1D827
-	/// @DnDParent : 4D4D7101
+	/// @DnDParent : 5D6420BB
 	/// @DnDArgument : "obj" "Star"
 	/// @DnDSaveInfo : "obj" "Star"
 	var l51B1D827_0 = false;
@@ -36,7 +37,7 @@ if (l4D4D7101_0)
 		/// @DnDHash : 42E87F13
 		/// @DnDApplyTo : {Star}
 		/// @DnDParent : 51B1D827
-		/// @DnDArgument : "speed" "30/abs(sqrt(sqr(other.x-x)+sqr(other.y-y)))"
-		with(Star) speed = 30/abs(sqrt(sqr(other.x-x)+sqr(other.y-y)));
+		/// @DnDArgument : "speed" "40/abs(sqrt(sqr(other.x-x)+sqr(other.y-y)))"
+		with(Star) speed = 40/abs(sqrt(sqr(other.x-x)+sqr(other.y-y)));
 	}
 }
