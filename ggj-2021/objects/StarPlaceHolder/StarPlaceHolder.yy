@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "EnemyBlackHoleSpr",
-    "path": "sprites/EnemyBlackHoleSpr/EnemyBlackHoleSpr.yy",
+    "name": "StarPlaceHolderSpr",
+    "path": "sprites/StarPlaceHolderSpr/StarPlaceHolderSpr.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Star","path":"objects/Star/Star.yy",},"parent":{"name":"EnemyBlackHole","path":"objects/EnemyBlackHole/EnemyBlackHole.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"StarPlaceHolder","path":"objects/StarPlaceHolder/StarPlaceHolder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "EnemyBlackHole",
+  "name": "StarPlaceHolder",
   "tags": [],
   "resourceType": "GMObject",
 }

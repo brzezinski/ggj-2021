@@ -26,6 +26,8 @@
     {"isDnD":true,"eventNum":56,"eventType":6,"collisionObjectId":null,"parent":{"name":"Star","path":"objects/Star/Star.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"BlackHole","path":"objects/BlackHole/BlackHole.yy",},"parent":{"name":"Star","path":"objects/Star/Star.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"EnemyBlackHole","path":"objects/EnemyBlackHole/EnemyBlackHole.yy",},"parent":{"name":"Star","path":"objects/Star/Star.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"StarPlaceHolder","path":"objects/StarPlaceHolder/StarPlaceHolder.yy",},"parent":{"name":"Star","path":"objects/Star/Star.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Star","path":"objects/Star/Star.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
