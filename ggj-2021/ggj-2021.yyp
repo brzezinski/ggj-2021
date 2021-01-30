@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"menu_music","path":"sounds/menu_music/menu_music.yy",},"order":1,},
+    {"id":{"name":"succtionSnd","path":"sounds/succtionSnd/succtionSnd.yy",},"order":2,},
     {"id":{"name":"Satelite","path":"objects/Satelite/Satelite.yy",},"order":8,},
     {"id":{"name":"Star","path":"objects/Star/Star.yy",},"order":1,},
     {"id":{"name":"TimeSpr","path":"sprites/TimeSpr/TimeSpr.yy",},"order":5,},
