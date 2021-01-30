@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "StartGameSpr",
-    "path": "sprites/StartGameSpr/StartGameSpr.yy",
+    "name": "SettingsSpr",
+    "path": "sprites/SettingsSpr/SettingsSpr.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"StartGame","path":"objects/StartGame/StartGame.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"SettingsBttn","path":"objects/SettingsBttn/SettingsBttn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "StartGame",
+  "name": "SettingsBttn",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,12 +1,14 @@
 {
   "resources": [
     {"id":{"name":"Star","path":"objects/Star/Star.yy",},"order":1,},
+    {"id":{"name":"SettingsSpr","path":"sprites/SettingsSpr/SettingsSpr.yy",},"order":2,},
     {"id":{"name":"BlackHole","path":"objects/BlackHole/BlackHole.yy",},"order":0,},
-    {"id":{"name":"StartGame","path":"objects/StartGame/StartGame.yy",},"order":6,},
+    {"id":{"name":"StartGameBttn","path":"objects/StartGameBttn/StartGameBttn.yy",},"order":6,},
     {"id":{"name":"Setup","path":"rooms/Setup/Setup.yy",},"order":2,},
     {"id":{"name":"Satellite","path":"objects/Satellite/Satellite.yy",},"order":5,},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"order":4,},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":1,},
+    {"id":{"name":"SettingsBttn","path":"objects/SettingsBttn/SettingsBttn.yy",},"order":7,},
     {"id":{"name":"StartGameSpr","path":"sprites/StartGameSpr/StartGameSpr.yy",},"order":1,},
     {"id":{"name":"BlackHoleSpr","path":"sprites/BlackHoleSpr/BlackHoleSpr.yy",},"order":0,},
     {"id":{"name":"Time","path":"objects/Time/Time.yy",},"order":3,},
