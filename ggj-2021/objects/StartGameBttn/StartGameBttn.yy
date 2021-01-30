@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "StartGameSpr",
-    "path": "sprites/StartGameSpr/StartGameSpr.yy",
+    "name": "ButtonSpr",
+    "path": "sprites/ButtonSpr/ButtonSpr.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"StartGameBttn","path":"objects/StartGameBttn/StartGameBttn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"StartGameBttn","path":"objects/StartGameBttn/StartGameBttn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":64,"eventType":8,"collisionObjectId":null,"parent":{"name":"StartGameBttn","path":"objects/StartGameBttn/StartGameBttn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
