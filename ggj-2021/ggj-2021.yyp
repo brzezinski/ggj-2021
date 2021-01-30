@@ -15,6 +15,7 @@
     {"id":{"name":"ScoreSpr","path":"sprites/ScoreSpr/ScoreSpr.yy",},"order":4,},
     {"id":{"name":"SettingsSpr","path":"sprites/SettingsSpr/SettingsSpr.yy",},"order":7,},
     {"id":{"name":"StartGameBttn","path":"objects/StartGameBttn/StartGameBttn.yy",},"order":5,},
+    {"id":{"name":"StarPlacedSnd","path":"sounds/StarPlacedSnd/StarPlacedSnd.yy",},"order":3,},
     {"id":{"name":"music","path":"sounds/music/music.yy",},"order":0,},
     {"id":{"name":"EnemyBlackHoleSpr","path":"sprites/EnemyBlackHoleSpr/EnemyBlackHoleSpr.yy",},"order":9,},
     {"id":{"name":"Setup","path":"rooms/Setup/Setup.yy",},"order":2,},

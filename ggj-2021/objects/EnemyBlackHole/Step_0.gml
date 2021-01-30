@@ -36,7 +36,7 @@ if (l4D4D7101_0)
 		/// @DnDHash : 42E87F13
 		/// @DnDApplyTo : {Star}
 		/// @DnDParent : 51B1D827
-		/// @DnDArgument : "speed" "10/abs(sqrt(sqr(other.x-x)+sqr(other.y-y)))"
-		with(Star) speed = 10/abs(sqrt(sqr(other.x-x)+sqr(other.y-y)));
+		/// @DnDArgument : "speed" "30/abs(sqrt(sqr(other.x-x)+sqr(other.y-y)))"
+		with(Star) speed = 30/abs(sqrt(sqr(other.x-x)+sqr(other.y-y)));
 	}
 }
