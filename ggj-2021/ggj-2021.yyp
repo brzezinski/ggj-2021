@@ -120,10 +120,10 @@
     {"roomId":{"name":"Game3","path":"rooms/Game3/Game3.yy",},},
     {"roomId":{"name":"Game4","path":"rooms/Game4/Game4.yy",},},
     {"roomId":{"name":"Game5","path":"rooms/Game5/Game5.yy",},},
-    {"roomId":{"name":"Credits","path":"rooms/Credits/Credits.yy",},},
-    {"roomId":{"name":"Setup","path":"rooms/Setup/Setup.yy",},},
     {"roomId":{"name":"Game6","path":"rooms/Game6/Game6.yy",},},
     {"roomId":{"name":"Game7","path":"rooms/Game7/Game7.yy",},},
+    {"roomId":{"name":"Credits","path":"rooms/Credits/Credits.yy",},},
+    {"roomId":{"name":"Setup","path":"rooms/Setup/Setup.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":11,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
