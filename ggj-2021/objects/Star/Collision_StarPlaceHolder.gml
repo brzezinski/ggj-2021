@@ -76,5 +76,13 @@ if(l6C1E7276_0)
 		/// @DnDArgument : "value_relative" "1"
 		/// @DnDArgument : "var" "stars_count"
 		global.stars_count += -1;
+	
+		/// @DnDAction : YoYo Games.Audio.Play_Audio
+		/// @DnDVersion : 1
+		/// @DnDHash : 299480F8
+		/// @DnDParent : 184C80CB
+		/// @DnDArgument : "soundid" "star_in_the_right_place"
+		/// @DnDSaveInfo : "soundid" "star_in_the_right_place"
+		audio_play_sound(star_in_the_right_place, 0, 0);
 	}
 }
