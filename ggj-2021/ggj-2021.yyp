@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Duck","path":"objects/Duck/Duck.yy",},"order":16,},
     {"id":{"name":"Star_Sound","path":"sounds/Star_Sound/Star_Sound.yy",},"order":26,},
     {"id":{"name":"VolumeSlider","path":"objects/VolumeSlider/VolumeSlider.yy",},"order":11,},
     {"id":{"name":"menu_music","path":"sounds/menu_music/menu_music.yy",},"order":1,},
@@ -29,6 +30,7 @@
     {"id":{"name":"Resume","path":"sounds/Resume/Resume.yy",},"order":24,},
     {"id":{"name":"BackgroundSpr","path":"sprites/BackgroundSpr/BackgroundSpr.yy",},"order":8,},
     {"id":{"name":"EnemyBlackHole","path":"objects/EnemyBlackHole/EnemyBlackHole.yy",},"order":7,},
+    {"id":{"name":"kaczuszka_sound_ingame","path":"sounds/kaczuszka_sound_ingame/kaczuszka_sound_ingame.yy",},"order":28,},
     {"id":{"name":"Quit","path":"sounds/Quit/Quit.yy",},"order":23,},
     {"id":{"name":"StarPlaceHolderSpr","path":"sprites/StarPlaceHolderSpr/StarPlaceHolderSpr.yy",},"order":14,},
     {"id":{"name":"Constalation2Spr","path":"sprites/Constalation2Spr/Constalation2Spr.yy",},"order":18,},
@@ -43,6 +45,7 @@
     {"id":{"name":"StartGameBttn","path":"objects/StartGameBttn/StartGameBttn.yy",},"order":5,},
     {"id":{"name":"StarPlacedSnd","path":"sounds/StarPlacedSnd/StarPlacedSnd.yy",},"order":3,},
     {"id":{"name":"music","path":"sounds/music/music.yy",},"order":0,},
+    {"id":{"name":"Cow","path":"objects/Cow/Cow.yy",},"order":15,},
     {"id":{"name":"Credits","path":"rooms/Credits/Credits.yy",},"order":3,},
     {"id":{"name":"Constalation3Spr","path":"sprites/Constalation3Spr/Constalation3Spr.yy",},"order":19,},
     {"id":{"name":"EnemyBlackHoleSpr","path":"sprites/EnemyBlackHoleSpr/EnemyBlackHoleSpr.yy",},"order":9,},
@@ -66,6 +69,7 @@
     {"id":{"name":"Constelation6Spr","path":"sprites/Constelation6Spr/Constelation6Spr.yy",},"order":25,},
     {"id":{"name":"LogoSpr","path":"sprites/LogoSpr/LogoSpr.yy",},"order":13,},
     {"id":{"name":"Trash","path":"objects/Trash/Trash.yy",},"order":9,},
+    {"id":{"name":"cow_sound_ingame","path":"sounds/cow_sound_ingame/cow_sound_ingame.yy",},"order":27,},
     {"id":{"name":"Font","path":"fonts/Font/Font.yy",},"order":0,},
     {"id":{"name":"Gameplay_Music_One","path":"sounds/Gameplay_Music_One/Gameplay_Music_One.yy",},"order":12,},
     {"id":{"name":"Duck_sound","path":"sounds/Duck_sound/Duck_sound.yy",},"order":11,},

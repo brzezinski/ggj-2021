@@ -26,6 +26,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"Star","path":"objects/Star/Star.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":224.0,"resourceVersion":"1.0","name":"inst_31805439","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Trash","path":"objects/Trash/Trash.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":384.0,"resourceVersion":"1.0","name":"inst_6EB0CB7D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"RestartBttn","path":"objects/RestartBttn/RestartBttn.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1187.0,"y":13.8000031,"resourceVersion":"1.0","name":"inst_77AC9768","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Duck","path":"objects/Duck/Duck.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-64.0,"y":608.0,"resourceVersion":"1.0","name":"inst_754BDCBE","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Constalation1Spr","path":"sprites/Constalation1Spr/Constalation1Spr.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":363.0,"y":143.0,"resourceVersion":"1.0","name":"graphic_3492DD3A","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -60,6 +61,7 @@
     {"name":"inst_6B38184B","path":"rooms/Game1/Game1.yy",},
     {"name":"inst_556CD501","path":"rooms/Game1/Game1.yy",},
     {"name":"inst_77AC9768","path":"rooms/Game1/Game1.yy",},
+    {"name":"inst_754BDCBE","path":"rooms/Game1/Game1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
