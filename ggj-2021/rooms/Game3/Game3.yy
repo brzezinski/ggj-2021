@@ -24,6 +24,8 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"Star","path":"objects/Star/Star.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":576.0,"resourceVersion":"1.0","name":"inst_254CE507","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Star","path":"objects/Star/Star.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":224.0,"resourceVersion":"1.0","name":"inst_31805439","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Trash","path":"objects/Trash/Trash.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":384.0,"resourceVersion":"1.0","name":"inst_6EB0CB7D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Duck","path":"objects/Duck/Duck.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-64.0,"y":288.0,"resourceVersion":"1.0","name":"inst_4D738022","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Cow","path":"objects/Cow/Cow.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-160.0,"y":544.0,"resourceVersion":"1.0","name":"inst_63F6800","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Constalation3Spr","path":"sprites/Constalation3Spr/Constalation3Spr.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.7,"scaleY":0.7,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":437.0,"y":113.0,"resourceVersion":"1.0","name":"graphic_5FDF4003","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -43,6 +45,8 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_2E66A887","path":"rooms/Game3/Game3.yy",},
+    {"name":"inst_63F6800","path":"rooms/Game3/Game3.yy",},
+    {"name":"inst_4D738022","path":"rooms/Game3/Game3.yy",},
     {"name":"inst_B1F901B","path":"rooms/Game3/Game3.yy",},
     {"name":"inst_DCB801F","path":"rooms/Game3/Game3.yy",},
     {"name":"inst_3F7A21FF","path":"rooms/Game3/Game3.yy",},
