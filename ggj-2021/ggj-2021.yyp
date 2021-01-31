@@ -85,6 +85,7 @@
     {"id":{"name":"Slider5Spr","path":"sprites/Slider5Spr/Slider5Spr.yy",},"order":30,},
     {"id":{"name":"Cow_sound","path":"sounds/Cow_sound/Cow_sound.yy",},"order":9,},
     {"id":{"name":"Options","path":"sounds/Options/Options.yy",},"order":20,},
+    {"id":{"name":"Credits_narracja","path":"sounds/Credits_narracja/Credits_narracja.yy",},"order":29,},
     {"id":{"name":"BlackHoleSpr","path":"sprites/BlackHoleSpr/BlackHoleSpr.yy",},"order":0,},
     {"id":{"name":"RestartSpr","path":"sprites/RestartSpr/RestartSpr.yy",},"order":24,},
     {"id":{"name":"Time","path":"objects/Time/Time.yy",},"order":3,},
