@@ -21,3 +21,12 @@ draw_text(5, 10, string("Score: ") + string(__dnd_score));
 /// @DnDArgument : "caption" ""Stars: ""
 /// @DnDArgument : "var" "stars"
 draw_text(5, 30, string("Stars: ") + string(stars));
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 0E72C65D
+/// @DnDArgument : "x" "5"
+/// @DnDArgument : "y" "50"
+/// @DnDArgument : "caption" ""Left: ""
+/// @DnDArgument : "var" "global.stars_count"
+draw_text(5, 50, string("Left: ") + string(global.stars_count));
