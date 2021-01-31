@@ -60,6 +60,14 @@ if(l6C1E7276_0)
 		x = other.x;
 		y = other.y;
 	
+		/// @DnDAction : YoYo Games.Audio.Play_Audio
+		/// @DnDVersion : 1
+		/// @DnDHash : 13247871
+		/// @DnDParent : 184C80CB
+		/// @DnDArgument : "soundid" "StarPlacedSnd"
+		/// @DnDSaveInfo : "soundid" "StarPlacedSnd"
+		audio_play_sound(StarPlacedSnd, 0, 0);
+	
 		/// @DnDAction : YoYo Games.Common.Set_Global
 		/// @DnDVersion : 1
 		/// @DnDHash : 1885E101
