@@ -1,9 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"VolumeSlider","path":"objects/VolumeSlider/VolumeSlider.yy",},"order":11,},
     {"id":{"name":"menu_music","path":"sounds/menu_music/menu_music.yy",},"order":1,},
     {"id":{"name":"StarPlaceHolder","path":"objects/StarPlaceHolder/StarPlaceHolder.yy",},"order":10,},
     {"id":{"name":"succtionSnd","path":"sounds/succtionSnd/succtionSnd.yy",},"order":2,},
     {"id":{"name":"Satelite","path":"objects/Satelite/Satelite.yy",},"order":8,},
+    {"id":{"name":"FX_Slider","path":"objects/FX_Slider/FX_Slider.yy",},"order":12,},
     {"id":{"name":"Star","path":"objects/Star/Star.yy",},"order":1,},
     {"id":{"name":"TimeSpr","path":"sprites/TimeSpr/TimeSpr.yy",},"order":5,},
     {"id":{"name":"BlackHole","path":"objects/BlackHole/BlackHole.yy",},"order":0,},
@@ -23,7 +25,9 @@
     {"id":{"name":"music","path":"sounds/music/music.yy",},"order":0,},
     {"id":{"name":"Credits","path":"rooms/Credits/Credits.yy",},"order":3,},
     {"id":{"name":"EnemyBlackHoleSpr","path":"sprites/EnemyBlackHoleSpr/EnemyBlackHoleSpr.yy",},"order":9,},
+    {"id":{"name":"VolumeSliderSpr","path":"sprites/VolumeSliderSpr/VolumeSliderSpr.yy",},"order":15,},
     {"id":{"name":"Setup","path":"rooms/Setup/Setup.yy",},"order":2,},
+    {"id":{"name":"FX_SliderSpr","path":"sprites/FX_SliderSpr/FX_SliderSpr.yy",},"order":16,},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},"order":4,},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":1,},
     {"id":{"name":"CreditsBttn","path":"objects/CreditsBttn/CreditsBttn.yy",},"order":11,},
