@@ -7,6 +7,19 @@
 x = mouse_x;
 y += 0;
 
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 79F49AEA
+/// @DnDArgument : "value" "(mouse_x-255)/715"
+/// @DnDArgument : "var" "master_volume"
+global.master_volume = (mouse_x-255)/715;
+
+/// @DnDAction : YoYo Games.Audio.Audo_Set_Master_Volume
+/// @DnDVersion : 1
+/// @DnDHash : 1CB4DB3F
+/// @DnDArgument : "volume" "global.master_volume"
+audio_set_master_gain(0, global.master_volume);
+
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 73473A64

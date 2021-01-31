@@ -1,3 +1,18 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 16F22400
+/// @DnDArgument : "value" "(mouse_x-255)/715"
+/// @DnDArgument : "var" "menumusic_volume"
+global.menumusic_volume = (mouse_x-255)/715;
+
+/// @DnDAction : YoYo Games.Audio.Audio_Set_Volume
+/// @DnDVersion : 1
+/// @DnDHash : 4D132E64
+/// @DnDArgument : "sound" "menu_music"
+/// @DnDArgument : "volume" "global.menumusic_volume"
+/// @DnDSaveInfo : "sound" "menu_music"
+audio_sound_gain(menu_music, global.menumusic_volume, 0);
+
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
 /// @DnDHash : 3D73F0BB
