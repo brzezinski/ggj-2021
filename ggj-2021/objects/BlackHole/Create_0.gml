@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 4995B91E
+/// @DnDArgument : "var" "stars_count"
+global.stars_count = 0;
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7D75B79F

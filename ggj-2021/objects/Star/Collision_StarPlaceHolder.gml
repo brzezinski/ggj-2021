@@ -59,5 +59,14 @@ if(l6C1E7276_0)
 		/// @DnDArgument : "y" "other.y"
 		x = other.x;
 		y = other.y;
+	
+		/// @DnDAction : YoYo Games.Common.Set_Global
+		/// @DnDVersion : 1
+		/// @DnDHash : 1885E101
+		/// @DnDParent : 184C80CB
+		/// @DnDArgument : "value" "-1"
+		/// @DnDArgument : "value_relative" "1"
+		/// @DnDArgument : "var" "stars_count"
+		global.stars_count += -1;
 	}
 }
