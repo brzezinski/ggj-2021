@@ -44,6 +44,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_2E66A887","path":"rooms/Game2/Game2.yy",},
+    {"name":"inst_77C41659","path":"rooms/Game2/Game2.yy",},
     {"name":"inst_B1F901B","path":"rooms/Game2/Game2.yy",},
     {"name":"inst_DCB801F","path":"rooms/Game2/Game2.yy",},
     {"name":"inst_3F7A21FF","path":"rooms/Game2/Game2.yy",},
@@ -58,7 +59,6 @@
     {"name":"inst_6B38184B","path":"rooms/Game2/Game2.yy",},
     {"name":"inst_528458A9","path":"rooms/Game2/Game2.yy",},
     {"name":"inst_5E4FA8DB","path":"rooms/Game2/Game2.yy",},
-    {"name":"inst_77C41659","path":"rooms/Game2/Game2.yy",},
     {"name":"inst_7B33B0D2","path":"rooms/Game2/Game2.yy",},
   ],
   "inheritCreationOrder": false,
