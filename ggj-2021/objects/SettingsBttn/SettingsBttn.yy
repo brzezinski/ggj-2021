@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"SettingsBttn","path":"objects/SettingsBttn/SettingsBttn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":64,"eventType":8,"collisionObjectId":null,"parent":{"name":"SettingsBttn","path":"objects/SettingsBttn/SettingsBttn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":10,"eventType":6,"collisionObjectId":null,"parent":{"name":"SettingsBttn","path":"objects/SettingsBttn/SettingsBttn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
