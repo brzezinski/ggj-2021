@@ -45,7 +45,6 @@
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":1,},
     {"id":{"name":"CreditsBttn","path":"objects/CreditsBttn/CreditsBttn.yy",},"order":11,},
     {"id":{"name":"SettingsBttn","path":"objects/SettingsBttn/SettingsBttn.yy",},"order":6,},
-    {"id":{"name":"SliderCircle2Spr","path":"sprites/SliderCircle2Spr/SliderCircle2Spr.yy",},"order":18,},
     {"id":{"name":"SateliteSpr","path":"sprites/SateliteSpr/SateliteSpr.yy",},"order":10,},
     {"id":{"name":"Game7","path":"rooms/Game7/Game7.yy",},"order":9,},
     {"id":{"name":"RestartBttn","path":"objects/RestartBttn/RestartBttn.yy",},"order":14,},
